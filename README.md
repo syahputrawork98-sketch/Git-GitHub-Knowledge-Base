@@ -21,14 +21,14 @@ Kolaborasi perangkat lunak tanpa tata kelola versi adalah resep bencana arsitekt
 ## 🏗️ Struktur 8-Rak (The Taxonomy)
 Pengetahuan di sini disusun untuk membawa Anda dari pemula hingga penguasaan level Senior:
 
-1.  **RAK-01: Anatomy & Landscape** (Sejarah VCS, Filosofi Snapshots vs Deltas, Teori DAG).
-2.  **RAK-02: Foundation & Core Rules** (Atomic Commits, Conventional Commits, GPG Signing).
-3.  **RAK-03: Evolution & Interfacing** (Advanced Branching, Conflict Resolution, 3-way Merge Internals).
-4.  **RAK-04: Core Mechanics & Internals** (Plumbing commands, .git folder internals, Zlib compression).
-5.  **RAK-05: Ecosystem & Tooling** (GitHub Advanced: PR Delegation, Actions API, Organization Governance).
-6.  **RAK-06: The Underworld** (Interactive Rebase, History Sanitization, Disaster Recovery).
-7.  **RAK-07: Specialization** (Git Hooks automation, Git LFS, Submodules vs Subtrees).
-8.  **RAK-08: Matrix Intersection** (GitOps, Infrastructure as Code versioning, AI Integration).
+1.  **[RAK-01-Anatomy-Landscape](./RAK-01-Anatomy-Landscape/)** (Sejarah VCS, Filosofi Snapshots vs Deltas, Teori DAG).
+2.  **[RAK-02-Foundation-Core-Rules](./RAK-02-Foundation-Core-Rules/)** (Atomic Commits, Conventional Commits, GPG Signing).
+3.  **[RAK-03-Evolution-Interfacing](./RAK-03-Evolution-Interfacing/)** (Advanced Branching, Conflict Resolution, 3-way Merge Internals).
+4.  **[RAK-04-Core-Mechanics-Internals](./RAK-04-Core-Mechanics-Internals/)** (Plumbing commands, .git folder internals, Zlib compression).
+5.  **[RAK-05-Ecosystem-Tooling](./RAK-05-Ecosystem-Tooling/)** (GitHub Advanced: PR Delegation, Actions API, Organization Governance).
+6.  **[RAK-06-The-Underworld](./RAK-06-The-Underworld/)** (Interactive Rebase, History Sanitization, Disaster Recovery).
+7.  **[RAK-07-Specialization](./RAK-07-Specialization/)** (Git Hooks automation, Git LFS, Submodules vs Subtrees).
+8.  **[RAK-08-Matrix-Intersection](./RAK-08-Matrix-Intersection/)** (GitOps, Infrastructure as Code versioning, AI Integration).
 
 ---
 
