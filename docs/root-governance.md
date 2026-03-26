@@ -36,4 +36,4 @@ Aturan hanya berlaku **di level folder tempat aturan itu berada** dan **tidak me
 
 ## Status
 
-Aktif. Mematuhi Gold Standard PPM V4.
+Aktif. Mematuhi **Git Mastery Gold Standard (GMGS)**.
