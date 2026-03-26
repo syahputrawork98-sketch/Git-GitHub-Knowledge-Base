@@ -1,13 +1,15 @@
-# RAK-07: Specialization
+# 🛠️ RAK-07: Specialization
 
-> **"Mengoptimalkan Git untuk skala besar dan kebutuhan proyek yang spesifik."**
+> **"Menguasai alat khusus untuk tantangan skala industri."**
 
-## 📖 Deskripsi
-Rak ini membahas fitur-fitur spesialisasi Git seperti otomatisasi melalui Hooks, pengelolaan file besar (LFS), dan manajemen dependensi eksternal.
+Rak ini membahas otomasi melalui Git Hooks, pengelolaan aset biner besar dengan LFS, dan strategi penggabungan repositori eksternal via Submodules dan Subtrees.
 
-## 🏗️ Struktur Sub-Rak
-1. **[SR-01-Automation-Hooks](./SR-01-Automation-Hooks/)**: Arsitektur skrip intersep otomatis.
-2. **[SR-02-Project-Scaling](./SR-02-Project-Scaling/)**: Teknik pengelolaan proyek skala besar (LFS & Submodules).
+## 🧭 Navigasi Sub-Rak
+
+| Level | Sub-Rak | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🪝 **SR-01** | **Git Hooks Automation** | Otomasi client-side dan server-side menggunakan hook. | **[Masuk](./SR-01-Git-Hooks-Automation/)** |
+| 📦 **SR-02** | **External Systems** | Pengelolaan Large File Storage (LFS) dan ketergantungan eksternal. | **[Masuk](./SR-02-Large-File-External-Systems/)** |
 
 ---
-*Status: Architecture Initialized (Phase 2)*
+*Status: 🌟 Senior Grade Content Loaded*

@@ -1,7 +1,15 @@
-# BK-01-Birth-of-Git
+# 📖 BK-01: Birth of Git
 
-## 📖 Deskripsi
-Buku ini memuat catatan sejarah tentang kondisi pengembangan Linux Kernel sebelum adanya Git, perselisihan dengan BitKeeper, dan 2 minggu yang mengubah sejarah dunia saat Linus Torvalds menulis versi pertama Git.
+> **"Krisis adalah ibu dari inovasi radikal."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membedah sejarah penciptaan Git, mulai dari krisis BitKeeper hingga keputusan Linus Torvalds untuk membangun sistem yang selamanya akan mengubah dunia pengembangan perangkat lunak.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🏚️ **CH-01** | **Pre-Git Crisis** | Lanskap VCS sebelum Git dan kegagalan model terpusat. | **[Baca Bab](./CH-01-Pre-Git-Crisis/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+s & Sections)*

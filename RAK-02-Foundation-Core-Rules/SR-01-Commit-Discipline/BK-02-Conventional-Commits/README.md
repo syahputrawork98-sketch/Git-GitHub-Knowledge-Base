@@ -1,7 +1,15 @@
-# BK-02-Conventional-Commits
+# 📖 BK-02: Conventional Commits
 
-## 📖 Deskripsi
-Buku ini membahas spesifikasi Conventional Commits yang membantu tim dalam membuat sejarah kode yang terstruktur dan memungkinkan pembuatan Changelog otomatis.
+> **"Bahasa yang sama untuk manusia dan mesin."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas spesifikasi standarisasi pesan commit yang memungkinkan pembuatan changelog otomatis dan orkestrasi CI/CD berdasarkan tipe perubahan.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 📜 **CH-01** | **Commit Linting** | Menerapkan aturan penulisan pesan commit yang baku dan terotomasi. | **[Baca Bab](./CH-01-Commit-Linting-Standard/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+ 3: Chapters & Sections)*

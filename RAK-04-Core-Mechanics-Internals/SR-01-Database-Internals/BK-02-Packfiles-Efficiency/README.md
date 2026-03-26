@@ -1,7 +1,15 @@
-# BK-02-Packfiles-Efficiency
+# 📖 BK-02: Packfiles Efficiency
 
-## 📖 Deskripsi
-Buku ini membahas mekanisme bagaimana Git mengompresi ribuan objek ke dalam Packfiles menggunakan algoritma kompresi delta untuk menghemat ruang penyimpanan secara drastis.
+> **"Seni mengemas sejarah dalam ruang yang minimal."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas mekanisme kompresi biner Git dan bagaimana ribuan snapshot sejarah dikemas secara efisien melalui delta-compression dalam file Packfiles.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🗜️ **CH-01** | **Delta Compression** | Memahami algoritma kompresi dan optimasi ruang penyimpanan Git. | **[Baca Bab](./CH-01-Delta-Compression-Mechanics/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+ 3: Chapters & Sections)*

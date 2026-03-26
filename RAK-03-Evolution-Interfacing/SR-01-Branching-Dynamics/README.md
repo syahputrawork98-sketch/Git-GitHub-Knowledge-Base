@@ -1,8 +1,16 @@
-# SR-01-Branching-Dynamics
+# 🌳 SR-01: Branching Dynamics
 
-## 📖 Deskripsi
-Sub-Rak ini membahas cara memilih strategi percabangan yang tepat sesuai dengan kebutuhan proyek dan kecepatan rilis tim.
+> **"Strategi isolasi adalah kunci stabilitas dalam kolaborasi paralel."**
 
-## 🏗️ Struktur Buku
-1. **[BK-01-Feature-Branching](./BK-01-Feature-Branching/)**: Klasifikasi dan siklus hidup cabang fitur.
-2. **[BK-02-Trunk-Based-Development](./BK-02-Trunk-Based-Development/)**: Paradigma rilis cepat tanpa cabang berumur panjang.
+Sub-rak ini membahas berbagai model dinamika percabangan, mulai dari Feature Branching tradisional hingga Trunk-Based Development untuk skalabilitas tinggi.
+
+## 🧭 Koleksi Buku (Buku Portfolio)
+
+| Code | Buku | Fokus Materi | Link |
+| :--- | :--- | :--- | :--- |
+| 📖 **BK-01** | **Feature Branching** | Manajemen siklus hidup fitur dan isolasi pengembangan. | **[Buka Buku](./BK-01-Feature-Branching/)** |
+| 📖 **BK-02** | **Trunk-Based Dev** | Strategi Continuous Integration dan rilis berbasis main-branch. | **[Buka Buku](./BK-02-Trunk-Based-Development/)** |
+
+---
+*Materi ini merupakan bagian dari **RAK-03: Evolution & Interfacing**.*
+berumur panjang.

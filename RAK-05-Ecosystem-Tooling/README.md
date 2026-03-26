@@ -1,13 +1,15 @@
-# RAK-05: Ecosystem & Tooling
+# 🌐 RAK-05: Ecosystem & Tooling
 
-> **"Bergerak dari mesin lokal ke panggung kolaborasi global."**
+> **"Git adalah mesinnya, GitHub adalah bahan bakar kolaborasi global."**
 
-## 📖 Deskripsi
-Rak ini membahas ekosistem GitHub sebagai platform tata kelola kolaborasi, otomatisasi pengujian, dan manajemen tim dalam skala besar.
+Rak ini mengeksplorasi ekosistem GitHub melampaui sekadar penyimpanan kode, mencakup tata kelola Pull Request, otomasi Actions, dan keamanan skala organisasi.
 
-## 🏗️ Struktur Sub-Rak
-1. **[SR-01-Remote-Collaboration](./SR-01-Remote-Collaboration/)**: Tata kelola Pull Requests dan Code Review.
-2. **[SR-02-Automation-API](./SR-02-Automation-API/)**: Otomasi melalui GitHub Actions dan integrasi API.
+## 🧭 Navigasi Sub-Rak
+
+| Level | Sub-Rak | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🤝 **SR-01** | **Remote Collaboration** | Delegasi PR, Branch Protection, dan Code Owners. | **[Masuk](./SR-01-Remote-Collaboration/)** |
+| 🤖 **SR-02** | **GitHub Automation** | Inti dari GitHub Actions, Runner API, dan keamanan Organisasi. | **[Masuk](./SR-02-GitHub-Automation/)** |
 
 ---
-*Status: Architecture Initialized (Phase 2)*
+*Status: 🌟 Senior Grade Content Loaded*

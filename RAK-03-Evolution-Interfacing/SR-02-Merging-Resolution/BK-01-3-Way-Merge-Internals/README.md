@@ -1,7 +1,15 @@
-# BK-01-3-Way-Merge-Internals
+# 📖 BK-01: 3-Way Merge Internals
 
-## 📖 Deskripsi
-Buku ini menjelaskan algoritma pencarian *Common Ancestor* dan bagaimana Git membandingkan tiga versi file untuk melakukan penggabungan otomatis.
+> **"Logika di balik penyatuan sejarah yang cerdas."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membedah bagaimana Git mendeteksi perubahan dari dua sumber yang berbeda menggunakan algoritma pencari leluhur bersama (Common Ancestor).
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🧬 **CH-01** | **Common Ancestor** | Memahami algoritma merge-base dan pencegahan konflik logis. | **[Baca Bab](./CH-01-Common-Ancestor-Logic/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+s & Sections)*

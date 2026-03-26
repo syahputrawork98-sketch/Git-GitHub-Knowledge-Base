@@ -1,8 +1,15 @@
-# SR-01-History-Philosophy
+# 📜 SR-01: History & Philosophy
 
-## 📖 Deskripsi
-Sub-Rak ini membedah alasan mengapa Git diciptakan, krisis yang melatarbelakanginya, serta filosofi desain Linus Torvalds yang mengubah cara dunia memandang sejarah kode.
+> **"Akar sejarah dan pergeseran paradigma dari delta ke snapshots."**
 
-## 🏗️ Struktur Buku
-1. **[BK-01-Birth-of-Git](./BK-01-Birth-of-Git/)**: Detik-detik kelahiran Git dan krisis BitKeeper.
-2. **[BK-02-The-Snapshot-Revolution](./BK-02-The-Snapshot-Revolution/)**: Mengapa Git memilih paradigma "Snapshot" alih-alih "Delta".
+Sub-rak ini mengeksplorasi alasan filosofis di balik penciptaan Git dan bagaimana krisis BitKeeper melahirkan sistem kontrol versi paling dominan di dunia.
+
+## 🧭 Koleksi Buku (Buku Portfolio)
+
+| Code | Buku | Fokus Materi | Link |
+| :--- | :--- | :--- | :--- |
+| 📖 **BK-01** | **Birth of Git** | Krisis BitKeeper, filosofi Linus Torvalds, dan efisiensi snapshots. | **[Buka Buku](./BK-01-Birth-of-Git/)** |
+
+---
+*Materi ini merupakan bagian dari **RAK-01: Anatomy & Landscape**.*
+hot-Revolution](./BK-02-The-Snapshot-Revolution/)**: Mengapa Git memilih paradigma "Snapshot" alih-alih "Delta".

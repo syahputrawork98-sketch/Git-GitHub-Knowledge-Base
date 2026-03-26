@@ -1,7 +1,15 @@
-# BK-01-The-Index
+# 📖 BK-01: The Index
 
-## 📖 Deskripsi
-Buku ini membedah berkas `.git/index`, menjelaskan perannya sebagai area persiapan sebelum perubahan diabadikan ke dalam database objek.
+> **"Gerbang kedaulatan sebelum sejarah dicatat."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas mekanisme area pementasan (*Staging Area*) dan bagaimana Git melacak perbedaan antara direktori kerja, indeks, dan sejarah commit.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🗂️ **CH-01** | **Staging Lifecycle** | Siklus hidup file dari untracked hingga siap menjadi commit. | **[Baca Bab](./CH-01-Staging-Area-Lifecycle/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+s & Sections)*

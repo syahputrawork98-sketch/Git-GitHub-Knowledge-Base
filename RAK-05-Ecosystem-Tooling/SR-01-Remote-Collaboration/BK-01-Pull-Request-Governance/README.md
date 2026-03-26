@@ -1,7 +1,14 @@
-# BK-01-Pull-Request-Governance
+# 📖 BK-01: PR Governance
 
-## 📖 Deskripsi
-Buku ini membahas aturan main dalam mengajukan perubahan kode, mulai dari deskripsi yang jelas hingga penanganan konflik selama proses ulasan.
+> **"Menjamin kualitas melalui tinjauan sejawat yang disiplin."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas protokol tata kelola Pull Request (PR), mulai dari standar deskripsi hingga kebijakan delegasi ulasan untuk tim skala besar.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🤝 **CH-01** | **Review Workflow** | Standar operasional prosedur ulasan kode dan persetujuan PR. | **[Baca Bab](./CH-01-Review-Workflow-Standards/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*

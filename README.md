@@ -1,46 +1,37 @@
-# 🕰️ Git & GitHub: The Architecture of Time & Collaboration (Senior Edition)
+# 🕰️ Git & GitHub: The Architecture of Time (Senior Edition)
 
 > **"Git is not a save button; it is a high-precision time machine for code."**
 
-## 📖 Apa itu Version Control? (The What)
-**Version Control** (khususnya Git) adalah sistem yang mencatat perubahan pada sebuah berkas atau sekumpulan berkas dari waktu ke waktu sehingga Anda dapat kembali ke versi spesifik di masa lalu. Git tidak sekadar menyimpan perbedaan teks (*diff*), melainkan melestarikan utuhnya struktur file (*Snapshots*) ke dalam basis objek terenkripsi (**DAG - Directed Acyclic Graph**).
-
-Dalam ekosistem *The Learning Matrix*, Git-GitHub-Knowledge-Base mewakili paradigma **History Immutability & Collaboration Governance**: tentang bagaimana menjahit inovasi dari ratusan pengembang menjadi satu kesatuan sejarah yang rapi, bersih, dan dapat dipertanggungjawabkan di level **Senior Engineer**.
+Selamat datang di repositori pusat pengetahuan **Git & GitHub**. Proyek ini dirancang sebagai referensi teknis tingkat tinggi (Senior Engineer) yang membedah kontrol versi dari filosofi sejarah hingga mekanika internal yang paling dalam.
 
 ---
 
-## 🎯 Mengapa Kita Menggunakan Version Control? (The Why)
-Kolaborasi perangkat lunak tanpa tata kelola versi adalah resep bencana arsitektural:
-1.  **Single Source of Truth**: Menjamin ada satu versi kode yang menjadi rujukan mutlak (Main Branch).
-2.  **Experimentation Safety**: Memungkinkan pengembang bereksperimen di lorong waktu paralel (Branching) tanpa merusak jalur produksi utama.
-3.  **Auditability & Traceability**: Menelusuri sejarah perubahan hingga ke akar objek untuk keamanan dan debugging tingkat lanjut.
-4.  **Disaster Recovery**: Memulihkan kode dari kesalahan fatal menggunakan mekanisme internal (`reflog`, `fsck`).
+## 🧭 The 8-Rak Knowledge Matrix
+
+| Rak | Domain | Focus Area | Status |
+| :--- | :--- | :--- | :--- |
+| 🛡️ **[RAK-01](./RAK-01-Anatomy-Landscape/)** | **Anatomy & Landscape** | Sejarah, Filosofi Snapshots, Teori DAG. | 🌟 Complete |
+| 💎 **[RAK-02](./RAK-02-Foundation-Core-Rules/)** | **Foundation & Rules** | Atomic Commits, Conventional, GPG Signing. | 🌟 Complete |
+| 🌿 **[RAK-03](./RAK-03-Evolution-Interfacing/)** | **Evolution** | Advanced Branching, Conflict Resolution. | 🌟 Complete |
+| ⚙️ **[RAK-04](./RAK-04-Core-Mechanics-Internals/)** | **Core Mechanics** | .git Internals, Objects, Plumbing API. | 🌟 Complete |
+| 🌐 **[RAK-05](./RAK-05-Ecosystem-Tooling/)** | **Ecosystem** | GitHub Actions, PR Governance, RBAC. | 🌟 Complete |
+| 🌋 **[RAK-06](./RAK-06-The-Underworld/)** | **The Underworld** | Rebase, Sanitization, Disaster Recovery. | 🌟 Complete |
+| 🛠️ **[RAK-07](./RAK-07-Specialization/)** | **Specialization** | Git Hooks, LFS, Submodules/Subtrees. | 🌟 Complete |
+| 🌌 **[RAK-08](./RAK-08-Matrix-Intersection/)** | **Matrix Intersection** | GitOps, IaC Versioning, AI Symmetry. | 🌟 Complete |
 
 ---
 
-## 🏗️ Struktur 8-Rak (The Taxonomy)
-Pengetahuan di sini disusun untuk membawa Anda dari pemula hingga penguasaan level Senior:
+## 🏗️ Mengapa Standar Ini Penting? (The Why)
+Kolaborasi perangkat lunak skala besar membutuhkan lebih dari sekadar "push" dan "pull". Repositori ini menegakkan **Git Mastery Gold Standard (GMGS)**:
+1.  **Single Source of Truth**: Menjamin integritas jalur produksi utama.
+2.  **Experimentation Safety**: Lorong waktu paralel tanpa risiko destruktif.
+3.  **Auditability**: Penelusuran sejarah hingga ke level objek biner.
+4.  **Disaster Recovery**: Memulihkan kondisi dari kesalahan fatal (Reflog/Fsck).
 
-1.  **[RAK-01-Anatomy-Landscape](./RAK-01-Anatomy-Landscape/)** (Sejarah VCS, Filosofi Snapshots vs Deltas, Teori DAG).
-2.  **[RAK-02-Foundation-Core-Rules](./RAK-02-Foundation-Core-Rules/)** (Atomic Commits, Conventional Commits, GPG Signing).
-3.  **[RAK-03-Evolution-Interfacing](./RAK-03-Evolution-Interfacing/)** (Advanced Branching, Conflict Resolution, 3-way Merge Internals).
-4.  **[RAK-04-Core-Mechanics-Internals](./RAK-04-Core-Mechanics-Internals/)** (Plumbing commands, .git folder internals, Zlib compression).
-5.  **[RAK-05-Ecosystem-Tooling](./RAK-05-Ecosystem-Tooling/)** (GitHub Advanced: PR Delegation, Actions API, Organization Governance).
-6.  **[RAK-06-The-Underworld](./RAK-06-The-Underworld/)** (Interactive Rebase, History Sanitization, Disaster Recovery).
-7.  **[RAK-07-Specialization](./RAK-07-Specialization/)** (Git Hooks automation, Git LFS, Submodules vs Subtrees).
-8.  **[RAK-08-Matrix-Intersection](./RAK-08-Matrix-Intersection/)** (GitOps, Infrastructure as Code versioning, AI Integration).
+## 📜 Tata Kelola & Aturan
+- **[Governance Blueprint](./docs/root-governance.md)**: Aturan berjenjang 5-level (Rak > SR > BK > CH > SC).
+- **[Status Dashboard](./status.md)**: Visualisasi kelengkapan seluruh modul.
+- **AI Persona**: Mengikuti standar `.cursorrules` untuk interaksi AI yang presisi.
 
 ---
-
-## 📊 Status Proyek
-Detail status per Rak dapat dilihat di [status.md](./status.md).
-
-> [!NOTE]
-> Proyek ini mengikuti standar dokumentasi **Git Mastery Gold Standard (GMGS)**.
-
-- `README.md`: Pendahuluan & Visi Senior.
-- `docs/`: Dokumentasi pendukung (Governance & Blueprint).
-- `RAK-xx/`: Materi granular berdasarkan rak.
-
-## Dokumentasi
-- [docs/root-governance.md](./docs/root-governance.md)
+*Created with ❤️ for High-Rigor Engineering Teams.*

@@ -1,8 +1,16 @@
-# SR-01-Remote-Collaboration
+# 🤝 SR-01: Remote Collaboration
 
-## 📖 Deskripsi
-Sub-Rak ini membahas mekanisme kolaborasi asinkron melalui Pull Requests, kebijakan ulasan sejawat, dan tata kelola penggabungan kode dalam tim.
+> **"Sinkronisasi tim dimulai dari tata kelola Pull Request yang disiplin."**
 
-## 🏗️ Struktur Buku
-1. **[BK-01-Pull-Request-Governance](./BK-01-Pull-Request-Governance/)**: Kebijakan dan etika Pull Request.
-2. **[BK-02-Code-Review-Standards](./BK-02-Code-Review-Standards/)**: Standar kualitas dan komunikasi dalam review.
+Sub-rak ini membahas teknik kolaborasi jarak jauh menggunakan GitHub, mulai dari delegasi Pull Request hingga penerapan aturan perlindungan cabang (Branch Protection).
+
+## 🧭 Koleksi Buku (Buku Portfolio)
+
+| Code | Buku | Fokus Materi | Link |
+| :--- | :--- | :--- | :--- |
+| 📖 **BK-01** | **PR Governance** | Standar operasional Pull Request dan delegasi tinjauan kode. | **[Buka Buku](./BK-01-Pull-Request-Governance/)** |
+| 📖 **BK-02** | **Branch Protection** | Menjamin integritas cabang utama melalui aturan wajib (RBAC). | **[Buka Buku](./BK-02-Branch-Protection/)** |
+
+---
+*Materi ini merupakan bagian dari **RAK-05: Ecosystem & Tooling**.*
+review.

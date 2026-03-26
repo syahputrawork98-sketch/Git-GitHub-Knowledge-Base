@@ -1,7 +1,15 @@
-# BK-01-Atomic-Commits
+# 📖 BK-01: Atomic Commits
 
-## 📖 Deskripsi
-Buku ini memandu pengembang untuk membagi perubahan ke dalam unit terkecil yang fungsional. Atomic commits memudahkan debugging, revert, dan code review.
+> **"Satu perubahan, satu tujuan, satu catatan sejarah."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas filosofi *Single Responsibility* dalam commit, memastikan setiap catatan sejarah bersifat murni, dapat diuji, dan mudah untuk di-revert.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| ⚛️ **CH-01** | **Single Responsibility** | Teknik memecah perubahan menjadi unit sejarah yang atomik. | **[Baca Bab](./CH-01-Single-Responsibility/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+s & Sections)*

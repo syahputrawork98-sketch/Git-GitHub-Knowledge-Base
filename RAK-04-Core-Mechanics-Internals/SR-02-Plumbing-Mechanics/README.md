@@ -1,8 +1,15 @@
-# SR-02-Plumbing-Mechanics
+# 🪠 SR-02: Plumbing Mechanics
 
-## 📖 Deskripsi
-Sub-Rak ini membedah "pipa" internal Git—perintah tingkat rendah yang jarang digunakan oleh pengguna biasa namun krusial bagi alat bantu dan integrasi sistem.
+> **"Menguasai perintah tingkat rendah untuk manipulasi manual."**
 
-## 🏗️ Struktur Buku
-1. **[BK-01-The-Index](./BK-01-The-Index/)**: Mekanisme Staging Area sebagai gerbang commit.
-2. **[BK-02-Refs-Heads-Tags](./BK-02-Refs-Heads-Tags/)**: Bagaimana penunjuk cabang dan tag bekerja secara fisik.
+Sub-rak ini membahas sistem perujukan Git (Refs) dan mekanisme area pementasan (The Index) yang memungkinkan kontrol presisi atas setiap perubahan.
+
+## 🧭 Koleksi Buku (Buku Portfolio)
+
+| Code | Buku | Fokus Materi | Link |
+| :--- | :--- | :--- | :--- |
+| 📖 **BK-01** | **The Index** | Area pementasan (Staging) dan bagaimana Git melacak perubahan. | **[Buka Buku](./BK-01-The-Index/)** |
+| 📖 **BK-02** | **Refs Heads Tags** | Sistem penunjuk sejarah: Heads, Remotes, dan Immutable Tags. | **[Buka Buku](./BK-02-Refs-Heads-Tags/)** |
+
+---
+*Materi ini merupakan bagian dari **RAK-04: Core Mechanics & Internals**.*

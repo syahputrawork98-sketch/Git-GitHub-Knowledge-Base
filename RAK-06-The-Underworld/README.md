@@ -1,13 +1,15 @@
-# RAK-06: The Underworld
+# 🌋 RAK-06: The Underworld
 
-> **"Menguasai seni membedah dan memperbaiki sejarah yang telah lalu."**
+> **"Di mana sejarah dibedah, disucihama, dan dibangkitkan dari kehancuran."**
 
-## 📖 Deskripsi
-Rak ini membahas teknik tingkat lanjut untuk memanipulasi sejarah Git, melakukan sanitasi data sensitif, dan prosedur pemulihan bencana (Disaster Recovery).
+Rak ini menelusuri teknik "Underworld" Git: mulai dari pembersihan sejarah dengan rebase interaktif hingga pemulihan data dari kondisi bencana menggunakan Reflog.
 
-## 🏗️ Struktur Sub-Rak
-1. **[SR-01-History-Surgery](./SR-01-History-Surgery/)**: Teknik bedah sejarah (Interactive Rebase & Sanitization).
-2. **[SR-02-Disaster-Recovery](./SR-02-Disaster-Recovery/)**: Prosedur penyelamatan kode yang hilang.
+## 🧭 Navigasi Sub-Rak
+
+| Level | Sub-Rak | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🚿 **SR-01** | **History Sanitization** | Pembedahan sejarah via Interactive Rebase dan filter-repo. | **[Masuk](./SR-01-History-Sanitization/)** |
+| 🚑 **SR-02** | **Disaster Recovery** | Operasi penyelamatan data via Reflog dan Fsck. | **[Masuk](./SR-02-Disaster-Recovery/)** |
 
 ---
-*Status: Architecture Initialized (Phase 2)*
+*Status: 🌟 Senior Grade Content Loaded*

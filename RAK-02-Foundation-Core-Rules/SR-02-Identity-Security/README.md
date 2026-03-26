@@ -1,7 +1,14 @@
-# SR-02-Identity-Security
+# 🔐 SR-02: Identity & Security
 
-## 📖 Deskripsi
-Sub-Rak ini membahas lapisan keamanan pada Git, memastikan bahwa setiap perubahan benar-benar dilakukan oleh orang yang berhak melalui sistem tanda tangan digital.
+> **"Integritas sejarah kode dijamin oleh verifikasi identitas yang kuat."**
 
-## 🏗️ Struktur Buku
-1. **[BK-01-GPG-Signing](./BK-01-GPG-Signing/)**: Melacak identitas asli pengembang di balik setiap hash.
+Sub-rak ini membahas mekanisme keamanan untuk memastikan bahwa setiap commit benar-benar berasal dari penulis yang sah melalui penandatanganan digital.
+
+## 🧭 Koleksi Buku (Buku Portfolio)
+
+| Code | Buku | Fokus Materi | Link |
+| :--- | :--- | :--- | :--- |
+| 📖 **BK-01** | **GPG Signing** | Konfigurasi PGP Keys dan verifikasi identitas commit di GitHub. | **[Buka Buku](./BK-01-GPG-Signing/)** |
+
+---
+*Materi ini merupakan bagian dari **RAK-02: Foundation & Core Rules**.*

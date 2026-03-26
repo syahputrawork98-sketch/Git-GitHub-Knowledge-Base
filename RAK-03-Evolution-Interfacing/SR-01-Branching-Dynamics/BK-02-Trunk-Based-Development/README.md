@@ -1,7 +1,15 @@
-# BK-02-Trunk-Based-Development
+# 📖 BK-02: Trunk-Based Development
 
-## 📖 Deskripsi
-Buku ini membahas strategi di mana semua pengembang melakukan commit langsung ke "trunk" (main branch) secara sering, meminimalkan drift dan konflik penggabungan.
+> **"Kecepatan rilis melalui integrasi kontinu di jalur utama."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas paradigma modern pengembangan perangkat lunak di mana semua perubahan segera digabungkan ke cabang pusat untuk menghindari "merge hell".
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🚀 **CH-01** | **CI Release Strategy** | Alur kerja rilis cepat dan otomasi pengujian di jalur utama. | **[Baca Bab](./CH-01-Continuous-Integration-Release/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+ 3: Chapters & Sections)*

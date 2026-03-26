@@ -1,8 +1,15 @@
-# SR-02-Merging-Resolution
+# 🧨 SR-02: Merging & Resolution
 
-## 📖 Deskripsi
-Sub-Rak ini membedah proses penyatuan kembali (merging) berbagai aliran waktu paralel dan cara menangani perselisihan kode (konflik) dengan cara yang sistematis.
+> **"Penyatuan ide besar sering kali menghadirkan benturan tak terduga."**
 
-## 🏗️ Struktur Buku
-1. **[BK-01-3-Way-Merge-Internals](./BK-01-3-Way-Merge-Internals/)**: Logika di balik penggabungan otomatis Git.
-2. **[BK-02-Conflict-Resolution-Tactics](./BK-02-Conflict-Resolution-Tactics/)**: Seni menyelesaikan perbedaan baris kode.
+Sub-rak ini membedah mekanisme internal penggabungan (merge) dan memberikan panduan taktis untuk menyelesaikan konflik kode secara bedah dan bersih.
+
+## 🧭 Koleksi Buku (Buku Portfolio)
+
+| Code | Buku | Fokus Materi | Link |
+| :--- | :--- | :--- | :--- |
+| 📖 **BK-01** | **3-Way Merge Internals** | Membedah logika Common Ancestor dan deteksi perubahan. | **[Buka Buku](./BK-01-3-Way-Merge-Internals/)** |
+| 📖 **BK-02** | **Conflict Resolution** | Taktik resolusi konflik manual dan penggunaan alat bantu visual. | **[Buka Buku](./BK-02-Conflict-Resolution-Tactics/)** |
+
+---
+*Materi ini merupakan bagian dari **RAK-03: Evolution & Interfacing**.*

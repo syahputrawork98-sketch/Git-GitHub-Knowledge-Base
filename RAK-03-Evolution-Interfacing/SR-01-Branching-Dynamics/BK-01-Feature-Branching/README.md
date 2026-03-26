@@ -1,7 +1,15 @@
-# BK-01-Feature-Branching
+# 📖 BK-01: Feature Branching
 
-## 📖 Deskripsi
-Buku ini membedah alur kerja GitFlow dan variasinya, di mana setiap fitur baru diisolasi dalam cabang terpisah untuk menjaga stabilitas jalur utama.
+> **"Isolasi cerdas untuk pengembangan paralel."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas strategi pengelolaan cabang fitur, mulai dari pembukaan cabang hingga penggabungan kembali ke jalur utama secara aman.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🌳 **CH-01** | **Isolation Workflows** | Teknik isolasi fitur dan praktik terbaik penamaan cabang. | **[Baca Bab](./CH-01-Isolation-Workflows/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+s & Sections)*

@@ -1,7 +1,15 @@
-# BK-01-GPG-Signing
+# 📖 BK-01: GPG Signing
 
-## 📖 Deskripsi
-Buku ini membahas teknis penggunaan GPG (GNU Privacy Guard) untuk menandatangani commit, memberikan lapisan verifikasi tambahan bahwa kode benar-benar berasal dari penulis yang sah.
+> **"Identitas yang tidak terbantahkan dalam setiap commit."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas penggunaan PGP Keys untuk menandatangani commit, memastikan integritas data dan membedakan antara penulis asli dan pemalsu identitas.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🔐 **CH-01** | **PGP Keys Verification** | Menyiapkan, menggunakan, dan memverifikasi identitas via GitHub. | **[Baca Bab](./CH-01-PGP-Keys-Verification/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+s & Sections)*

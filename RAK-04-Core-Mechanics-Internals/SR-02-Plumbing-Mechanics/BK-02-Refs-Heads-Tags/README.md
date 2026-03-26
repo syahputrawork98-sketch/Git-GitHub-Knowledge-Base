@@ -1,7 +1,15 @@
-# BK-02-Refs-Heads-Tags
+# 📖 BK-02: Refs Heads Tags
 
-## 📖 Deskripsi
-Buku ini membahas folder `refs/`, menjelaskan bagaimana Git melacak lokasi cabang dan tag melalui file teks sederhana yang berisi Hash commit.
+> **"Navigasi fisik di atas lautan sejarah yang luas."**
 
-## 🏗️ Struktur Materi
-*Segera diisi (Phase 3: Chapters & Sections)*
+Buku ini membahas sistem perujukan (*References*) yang menyimpan lokasi pointer untuk cabang, tag, dan HEAD di dalam folder `.git/refs`.
+
+## 🧭 Daftar Chapter (Bab)
+
+| Code | Chapter | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 📍 **CH-01** | **Pointer Mechanics** | Membedah file fisik refs/heads dan bagaimana HEAD menunjuk ke commit. | **[Baca Bab](./CH-01-Reference-Pointer-Mechanics/)** |
+
+---
+*Buku ini mengikuti standar **GMGS** di level Chapter.*
+ 3: Chapters & Sections)*

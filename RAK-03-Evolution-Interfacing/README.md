@@ -1,13 +1,15 @@
-# RAK-03: Evolution & Interfacing
+# 🌿 RAK-03: Evolution & Interfacing
 
-> **"Cabang-cabang yang teratur menciptakan pohon sejarah yang kokoh."**
+> **"Kolaborasi adalah tarian sinkronisasi antara cabang-cabang pemikiran."**
 
-## 📖 Deskripsi
-Rak ini mengeksplorasi dinamika percabangan (branching) dan teknik penggabungan (merging) yang efisien untuk mendukung kolaborasi tim yang lancar.
+Rak ini mendalami teknik percabangan tingkat lanjut dan bagaimana Git menyelesaikan bentrokan ide (conflicts) melalui logika penggabungan yang presisi.
 
-## 🏗️ Struktur Sub-Rak
-1. **[SR-01-Branching-Dynamics](./SR-01-Branching-Dynamics/)**: Strategi manajemen cabang (Feature-based vs Trunk-based).
-2. **[SR-02-Merging-Resolution](./SR-02-Merging-Resolution/)**: Mekanika internal penggabungan dan resolusi konflik.
+## 🧭 Navigasi Sub-Rak
+
+| Level | Sub-Rak | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 🌳 **SR-01** | **Branching Dynamics** | Strategi isolasi fitur dan alur kerja Trunk-Based. | **[Masuk](./SR-01-Branching-Dynamics/)** |
+| 🧨 **SR-02** | **Merging & Resolution** | Mekanisme internal 3-way merge dan resolusi konflik manual. | **[Masuk](./SR-02-Merging-Resolution/)** |
 
 ---
-*Status: Architecture Initialized (Phase 2)*
+*Status: 🌟 Senior Grade Content Loaded*

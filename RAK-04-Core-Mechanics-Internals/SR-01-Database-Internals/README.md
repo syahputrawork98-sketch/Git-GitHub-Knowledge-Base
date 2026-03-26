@@ -1,8 +1,15 @@
-# SR-01-Database-Internals
+# 💾 SR-01: Database Internals
 
-## 📖 Deskripsi
-Sub-Rak ini memfokuskan pada folder `.git/objects`, membedah bagaimana Git merepresentasikan file dan direktori dalam bentuk objek binary yang imutabel.
+> **"Git adalah database snapshot biner yang dioptimalkan untuk performa."**
 
-## 🏗️ Struktur Buku
-1. **[BK-01-Object-Types](./BK-01-Object-Types/)**: Memahami peran Blobs, Trees, dan Commits.
-2. **[BK-02-Packfiles-Efficiency](./BK-02-Packfiles-Efficiency/)**: Mekanisme kompresi delta dalam Packfiles.
+Sub-rak ini memedah bagaimana Git menyimpan data secara internal melalui sistem objek dan bagaimana ia mengemasnya secara efisien dalam file packfiles.
+
+## 🧭 Koleksi Buku (Buku Portfolio)
+
+| Code | Buku | Fokus Materi | Link |
+| :--- | :--- | :--- | :--- |
+| 📖 **BK-01** | **Object Types** | Pendalaman teknis Blobs, Trees, dan Commit Objects. | **[Buka Buku](./BK-01-Object-Types/)** |
+| 📖 **BK-02** | **Packfiles Efficiency** | Mekanisme kompresi biner dan optimalisasi penyimpanan. | **[Buka Buku](./BK-02-Packfiles-Efficiency/)** |
+
+---
+*Materi ini merupakan bagian dari **RAK-04: Core Mechanics & Internals**.*

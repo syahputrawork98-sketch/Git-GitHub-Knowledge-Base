@@ -1,13 +1,15 @@
-# RAK-04: Core Mechanics & Internals
+# ⚙️ RAK-04: Core Mechanics & Internals
 
-> **"Membuka kap mesin untuk memahami cara kerja piston dan roda gigi Git."**
+> **"Jangan hanya menggunakan alatnya, pahami mesin yang menggerakkannya."**
 
-## 📖 Deskripsi
-Rak ini mengeksplorasi mekanisme internal Git, mulai dari sistem penyimpanan objek berbasis konten hingga cara Git mengoptimalkan ruang melalui kompresi.
+Rak ini adalah jantung dari pengetahuan teknis Git. Kita membedah folder `.git`, objek biner, kompresi, dan perintah-perintah *plumbing* yang menjadi fondasi Git.
 
-## 🏗️ Struktur Sub-Rak
-1. **[SR-01-Database-Internals](./SR-01-Database-Internals/)**: Struktur database objek (Blobs, Trees, Commits).
-2. **[SR-02-Plumbing-Mechanics](./SR-02-Plumbing-Mechanics/)**: Perintah tingkat rendah dan mekanisme Index.
+## 🧭 Navigasi Sub-Rak
+
+| Level | Sub-Rak | Deskripsi | Link |
+| :--- | :--- | :--- | :--- |
+| 💾 **SR-01** | **Database Internals** | Pendalaman objek Blob, Tree, Commit, dan efisiensi Packfiles. | **[Masuk](./SR-01-Database-Internals/)** |
+| 🪠 **SR-02** | **Plumbing Mechanics** | Mekanisme The Index, Refs, Heads, dan Tags di level rendah. | **[Masuk](./SR-02-Plumbing-Mechanics/)** |
 
 ---
-*Status: Architecture Initialized (Phase 2)*
+*Status: 🌟 Senior Grade Content Loaded*
