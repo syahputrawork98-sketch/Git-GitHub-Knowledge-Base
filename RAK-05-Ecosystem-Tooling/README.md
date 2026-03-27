@@ -10,6 +10,7 @@ Rak ini mengeksplorasi ekosistem GitHub melampaui sekadar penyimpanan kode, menc
 | :--- | :--- | :--- | :--- |
 | 🤝 **SR-01** | **Remote Collaboration** | Delegasi PR, Branch Protection, dan Code Owners. | **[Masuk](./SR-01-Remote-Collaboration/)** |
 | 🤖 **SR-02** | **GitHub Automation** | Inti dari GitHub Actions, Runner API, dan keamanan Organisasi. | **[Masuk](./SR-02-GitHub-Automation/)** |
+| 📋 **SR-03** | **Issue Governance** | Manajemen Issue, Bug Reporting, dan Konsep Template Standardisasi. | **[Masuk](./SR-03-Issue-Governance/)** |
 
 ---
 *Status: 🌟 Senior Grade Content Loaded*

@@ -31,8 +31,13 @@ Setiap `README.md` materi wajib berisi:
 - **Expertise**: Git Internals (Content Addressable Storage), Advanced Rebase/Merge, DAG (Directed Acyclic Graph), Branching Strategies (GitFlow, Trunk-based), GitHub Governance (Code Owners, Protection Rules).
 
 ## 📡 5. Communication Protocol (The Sacred Law)
-- **[DISCUSS] mode (Default)**: Hanya analisis, perancangan blueprint, dan diskusi teknis. **DILARANG** modifikasi file tanpa izin.
-- **[EXECUTE] mode**: Eksekusi/modifikasi file SETELAH ada perintah eksplisit (e.g., "Lakukan", "Eksekusi").
+Alur komunikasi wajib mengikuti tahapan berikut secara berurutan:
+- **[DISCUSS] mode (Default)**: Tanya jawab, bedah masalah, dan penyamaan konteks. **DILARANG** modifikasi file.
+- **[ANALYSIS] mode**: Proses audit mendalam terhadap struktur, dampak, dan kemungkinan resiko sebelum masuk ke perancangan.
+- **[BLUEPRINT] mode**: Pembuatan rancangan konseptual/arsitektur makro dari solusi yang akan dibuat.
+- **[PLAN] mode**: Penyusunan langkah demi langkah implementasi teknis (rencana kerja yang terstruktur).
+- **[EXECUTE] mode**: Modifikasi/pembuatan file SETELAH pengguna menyetujui Blueprint & Plan (dengan perintah "Eksekusi" dsb).
+- **[REVIEW] mode**: Pengecekan kualtias hasil eksekusi, membandingkannya dengan Blueprint, Plan, dan standar baku (seperti GMGS).
 
 > [!CAUTION]
 > **Peringatan**: Melanggar protokol ini dianggap sebagai kegagalan integritas arsitektural.

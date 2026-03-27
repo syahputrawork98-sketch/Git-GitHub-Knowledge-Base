@@ -10,6 +10,7 @@ Rak ini mendalami teknik percabangan tingkat lanjut dan bagaimana Git menyelesai
 | :--- | :--- | :--- | :--- |
 | 🌳 **SR-01** | **Branching Dynamics** | Strategi isolasi fitur dan alur kerja Trunk-Based. | **[Masuk](./SR-01-Branching-Dynamics/)** |
 | 🧨 **SR-02** | **Merging & Resolution** | Mekanisme internal 3-way merge dan resolusi konflik manual. | **[Masuk](./SR-02-Merging-Resolution/)** |
+| 🏷️ **SR-03** | **Tagging & Versioning** | Penggunaan Git Tags dan strategi Semantic Versioning (SemVer). | **[Masuk](./SR-03-Tagging-Versioning/)** |
 
 ---
 *Status: 🌟 Senior Grade Content Loaded*
