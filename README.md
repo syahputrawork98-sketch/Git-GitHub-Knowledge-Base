@@ -6,7 +6,7 @@ Selamat datang di repositori pusat pengetahuan **Git & GitHub**. Proyek ini dira
 
 ---
 
-## 🧭 The 8-Rak Knowledge Matrix
+## 🧭 The 9-Rak Knowledge Matrix
 
 | Rak | Domain | Focus Area | Status |
 | :--- | :--- | :--- | :--- |
@@ -18,6 +18,7 @@ Selamat datang di repositori pusat pengetahuan **Git & GitHub**. Proyek ini dira
 | 🌋 **[RAK-06](./RAK-06-The-Underworld/)** | **The Underworld** | Rebase, Sanitization, Disaster Recovery. | 🌟 Complete |
 | 🛠️ **[RAK-07](./RAK-07-Specialization/)** | **Specialization** | Git Hooks, LFS, Submodules/Subtrees. | 🌟 Complete |
 | 🌌 **[RAK-08](./RAK-08-Matrix-Intersection/)** | **Matrix Intersection** | GitOps, IaC Versioning, AI Symmetry. | 🌟 Complete |
+| 🎭 **[RAK-09](./RAK-09-Collaborative-Orchestration/)** | **Collaborative Orchestration** | GitHub Projects v2, Roadmaps, Governance. | 🏗️ In Progress |
 
 ---
 

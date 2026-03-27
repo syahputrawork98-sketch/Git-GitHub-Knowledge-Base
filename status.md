@@ -20,10 +20,15 @@ Standardisasi Arsitektur 8-Rak & Git# 📊 Repository Status Dashboard (PPM V4)
 - **Repository Integrity**: Duplicate folders cleaned, links verified.
 
 > **"A world-class technical reference hub for Git & GitHub."**
-Branching, Conflict Resolution. |
-| **[RAK-04-Core-Mechanics-Internals](./RAK-04-Core-Mechanics-Internals/)** | Core Mechanics & Internals | 🌟 Completed | Internal .git, Plumbing vs Porous. |
-| **[RAK-05-Ecosystem-Tooling](./RAK-05-Ecosystem-Tooling/)** | Ecosystem & Tooling | 🌟 Completed | GitHub Governance, Actions API. |
-| **[RAK-06-The-Underworld](./RAK-06-The-Underworld/)** | The Underworld | 🌟 Completed | Interactive Rebase, Disaster Recovery. |
-| **[RAK-07-Specialization](./RAK-07-Specialization/)** | Specialization | 🌟 Completed | Git Hooks, LFS, Submodules. |
----
+| Component | Domain | Status | Focus Area |
+| :--- | :--- | :--- | :--- |
+| **[RAK-01-Anatomy-Landscape](./RAK-01-Anatomy-Landscape/)** | Anatomy & Landscape | 🌟 Completed | History, DAG, Snapshots. |
+| **[RAK-02-Foundation-Rules](./RAK-02-Foundation-Core-Rules/)** | Foundation & Rules | 🌟 Completed | Commits, GPG, Conventions. |
+| **[RAK-03-Evolution](./RAK-03-Evolution-Interfacing/)** | Evolution | 🌟 Completed | Branching, Conflicts. |
+| **[RAK-04-Core-Mechanics](./RAK-04-Core-Mechanics-Internals/)** | Core Mechanics | 🌟 Completed | .git Internals, Plumbing. |
+| **[RAK-05-Ecosystem](./RAK-05-Ecosystem-Tooling/)** | Ecosystem | 🌟 Completed | Actions, PR Governance. |
+| **[RAK-06-The-Underworld](./RAK-06-The-Underworld/)** | The Underworld | 🌟 Completed | Rebase, Recovery. |
+| **[RAK-07-Specialization](./RAK-07-Specialization/)** | Specialization | 🌟 Completed | Hooks, LFS, Submodules. |
+| **[RAK-08-Matrix-Intersection](./RAK-08-Matrix-Intersection/)** | Matrix Intersection | 🌟 Completed | GitOps, AI Symmetry. |
+| **[RAK-09-Collaborative-Orchestration](./RAK-09-Collaborative-Orchestration/)** | Collaborative Orchestration | 🏗️ In Progress | GitHub Projects v2, Roadmap. |
 *Legend: 🌑 Empty | 🏗️ In Progress | ✅ Hierarchical (Architecture Ready) | 🌟 Completed (Full Content)*
