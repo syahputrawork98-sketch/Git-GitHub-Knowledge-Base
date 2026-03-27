@@ -1,15 +1,15 @@
-# ⚛️ SR-01: Commit Discipline
+# ⚛️ SR-01: Commit Discipline (Senior Edition)
 
-> **"Commit adalah atom sejarah. Pastikan setiap atom bersifat murni."**
+> **"Commit adalah atom sejarah. Pastikan setiap atom bersifat murni, teridentitas, dan bermakna."**
 
-Sub-rak ini membahas standar kedisiplinan dalam menyusun sejarah kode, mulai dari konsep atomisitas hingga standarisasi pesan commit.
+Sub-rak ini membahas standar kedisiplinan tingkat senior dalam menyusun sejarah kode. Fokus pada keterbacaan mesin (Conventional), keterlacakan (Atomic), dan integritas identitas (GPG).
 
 ## 🧭 Koleksi Buku (Buku Portfolio)
 
 | Code | Buku | Fokus Materi | Link |
 | :--- | :--- | :--- | :--- |
-| 📖 **BK-01** | **Atomic Commits** | Filosofi Single Responsibility dalam setiap pencatatan sejarah. | **[Buka Buku](./BK-01-Atomic-Commits/)** |
-| 📖 **BK-02** | **Conventional Commits** | Standarisasi pesan commit untuk otomasi changelog dan CI. | **[Buka Buku](./BK-02-Conventional-Commits/)** |
+| 📖 **BK-01** | **[Message Anatomy](./BK-01-Message-Anatomy/)** | Struktur pesan standar industri (Header, Body, Footer) & Imperative Mood. | **[Buka Buku](./BK-01-Message-Anatomy/)** |
+| 📖 **BK-02** | **[Atomic Evolution](./BK-02-Atomic-Evolution/)** | Strategi atomisitas, GPG Identity, dan keterlacakan Issue GitHub. | **[Buka Buku](./BK-02-Atomic-Evolution/)** |
 
 ---
 *Materi ini merupakan bagian dari **RAK-02: Foundation & Core Rules**.*
